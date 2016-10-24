@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/HUITI/git_resp/iospicker/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/HUITI/git_resp/iospicker/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_1d13bfd6c634689c013edc54109c1acd8526a459.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HUITI/git_resp/iospicker/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/HUITI/git_resp/iospicker/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_1d43e20cc0e1ee5658f7866549eb843cebe9d87c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HUITI/git_resp/iospicker/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/HUITI/git_resp/iospicker/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_895c7adbdc9919496d8af6d695e35d19db12ac42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HUITI/git_resp/iospicker/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/HUITI/git_resp/iospicker/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_799026d013566946e4f9057a75aa5e30a27ef505.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/usr/local/Cellar/android-sdk/24.4.1_1/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/HUITI/git_resp/iospicker/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_bd250c8039b884abc7d30f01ab7d91fe5e8d28ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HUITI/git_resp/iospicker/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/HUITI/git_resp/iospicker/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_6cdfa4a11156a5300bf0c113f2b88cf6f985ceb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HUITI/git_resp/iospicker/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/HUITI/git_resp/iospicker/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_55358fe77863c5bbc314a8e34273aa71223864d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HUITI/git_resp/iospicker/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/HUITI/git_resp/iospicker/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_9cff68665b6a40146c4d3645199a7605f265bf9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HUITI/git_resp/iospicker/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/HUITI/git_resp/iospicker/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_1951e5b5539af6a99d1a6ce700a6023f4e40d3d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HUITI/git_resp/iospicker/app/build/intermediates/exploded-aar/iospicker/lib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0b282a2bace758b9b4889b71fcfe1276c9ff4332">
+        <dex dex="/Users/HUITI/git_resp/iospicker/app/build/intermediates/pre-dexed/debug/iospicker-lib-unspecified_adf3a5389ef09dc69bd330039a8740e5b33a67e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HUITI/git_resp/iospicker/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/HUITI/git_resp/iospicker/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_a632708555cedb9c30ca950cf766be16dc87ee98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HUITI/git_resp/iospicker/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/HUITI/git_resp/iospicker/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_e99ffe31b34d0c54ca3c52750137bb8064dcc6c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HUITI/git_resp/iospicker/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/HUITI/git_resp/iospicker/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_375cabf273fa55ee99b1427b3599589dc1f9de24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HUITI/git_resp/iospicker/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/HUITI/git_resp/iospicker/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_2afb46578f1b96c40f1d8a97acbc4f95141dcc34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HUITI/git_resp/iospicker/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/HUITI/git_resp/iospicker/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_a09fffc7acd61f1c7ffe6e6e13323f22fa1e1bea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/HUITI/git_resp/iospicker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/HUITI/git_resp/iospicker/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_d18eaeb549f0e2dcca3a0247e85aff31914cdc1f.jar" />
+    </item>
+
+</items>
